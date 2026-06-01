@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=IssueIssyu&fontSize=70&desc=우리%20동네%20맞춤형%20이슈%20리포팅%20커뮤니티&descSize=10&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=이슈있슈's%20GitHub&fontSize=70&fontColor=ffffff)
 
 # 📢 이슈있슈 (IssueIssyu)
 
